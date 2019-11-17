@@ -1,7 +1,7 @@
 ﻿// ***************************************************************************//
 // Date Name       Description                                                //
 //----------------------------------------------------------------------------//
-// 11-7-09    David Verbeck   initial C# for Borrower.aspx functionality      //
+// 11-16-09    David Verbeck   initial C# for Borrower.aspx functionality      //
 //                            Enables use of submit button                    //
 //*************************************************************************** //
 

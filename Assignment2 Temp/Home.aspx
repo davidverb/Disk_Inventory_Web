@@ -11,11 +11,11 @@
 
     <p>
         &nbsp;</p>
-    <p>
+    <h1>
     <br />
-    Welcome to Disk Inventory.</p>
-<p>
-    Please use the navigation links above to explore the site.</p>
+    Welcome to Disk Inventory.</h1>
+<h2>
+    Please use the navigation links above to explore the site.</h2>
 
     
 
