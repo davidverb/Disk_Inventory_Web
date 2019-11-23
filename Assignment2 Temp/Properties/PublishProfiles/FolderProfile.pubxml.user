@@ -10,55 +10,55 @@ by editing this MSBuild file. In order to learn more about this please visit htt
   </PropertyGroup>
   <ItemGroup>
     <File Include="Account/AddPhoneNumber.aspx">
-      <publishTime>11/07/2019 11:38:51</publishTime>
+      <publishTime>11/22/2019 19:19:21</publishTime>
     </File>
     <File Include="Account/Confirm.aspx">
-      <publishTime>11/07/2019 11:38:51</publishTime>
+      <publishTime>11/22/2019 19:19:21</publishTime>
     </File>
     <File Include="Account/Forgot.aspx">
-      <publishTime>11/07/2019 11:38:51</publishTime>
+      <publishTime>11/22/2019 19:19:21</publishTime>
     </File>
     <File Include="Account/Lockout.aspx">
-      <publishTime>11/07/2019 11:38:51</publishTime>
+      <publishTime>11/22/2019 19:19:21</publishTime>
     </File>
     <File Include="Account/Login.aspx">
-      <publishTime>11/07/2019 11:38:51</publishTime>
+      <publishTime>11/22/2019 19:19:21</publishTime>
     </File>
     <File Include="Account/Manage.aspx">
-      <publishTime>11/07/2019 11:38:51</publishTime>
+      <publishTime>11/22/2019 19:19:21</publishTime>
     </File>
     <File Include="Account/ManageLogins.aspx">
-      <publishTime>11/07/2019 11:38:52</publishTime>
+      <publishTime>11/22/2019 19:19:21</publishTime>
     </File>
     <File Include="Account/ManagePassword.aspx">
-      <publishTime>11/07/2019 11:38:52</publishTime>
+      <publishTime>11/22/2019 19:19:21</publishTime>
     </File>
     <File Include="Account/OpenAuthProviders.ascx">
-      <publishTime>11/07/2019 11:38:52</publishTime>
+      <publishTime>11/22/2019 19:19:21</publishTime>
     </File>
     <File Include="Account/Register.aspx">
-      <publishTime>11/07/2019 11:38:52</publishTime>
+      <publishTime>11/22/2019 19:19:21</publishTime>
     </File>
     <File Include="Account/RegisterExternalLogin.aspx">
-      <publishTime>11/07/2019 11:38:52</publishTime>
+      <publishTime>11/22/2019 19:19:21</publishTime>
     </File>
     <File Include="Account/ResetPassword.aspx">
-      <publishTime>11/07/2019 11:38:52</publishTime>
+      <publishTime>11/22/2019 19:21:22</publishTime>
     </File>
     <File Include="Account/ResetPasswordConfirmation.aspx">
-      <publishTime>11/07/2019 11:38:52</publishTime>
+      <publishTime>11/22/2019 19:19:21</publishTime>
     </File>
     <File Include="Account/TwoFactorAuthenticationSignIn.aspx">
-      <publishTime>11/07/2019 11:38:52</publishTime>
+      <publishTime>11/22/2019 19:19:21</publishTime>
     </File>
     <File Include="Account/VerifyPhoneNumber.aspx">
-      <publishTime>11/07/2019 11:38:52</publishTime>
+      <publishTime>11/22/2019 19:19:13</publishTime>
     </File>
     <File Include="Account/Web.config">
-      <publishTime>11/07/2019 11:38:52</publishTime>
+      <publishTime>11/22/2019 19:18:55</publishTime>
     </File>
     <File Include="Artist.aspx">
-      <publishTime>11/07/2019 12:10:54</publishTime>
+      <publishTime>11/16/2019 18:10:40</publishTime>
     </File>
     <File Include="bin/Antlr3.Runtime.dll">
       <publishTime>09/10/2013 16:29:20</publishTime>
@@ -73,10 +73,10 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>01/25/2018 09:42:28</publishTime>
     </File>
     <File Include="bin/Assignment2 Temp.dll">
-      <publishTime>11/07/2019 12:16:09</publishTime>
+      <publishTime>11/22/2019 20:47:30</publishTime>
     </File>
     <File Include="bin/Assignment2 Temp.pdb">
-      <publishTime>11/07/2019 12:16:09</publishTime>
+      <publishTime>11/22/2019 20:47:30</publishTime>
     </File>
     <File Include="bin/EntityFramework.dll">
       <publishTime>10/23/2017 13:15:18</publishTime>
@@ -292,7 +292,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>01/23/2014 12:57:34</publishTime>
     </File>
     <File Include="Borrower.aspx">
-      <publishTime>11/07/2019 12:10:10</publishTime>
+      <publishTime>11/16/2019 18:13:01</publishTime>
     </File>
     <File Include="Bundle.config">
       <publishTime>11/07/2019 11:38:43</publishTime>
@@ -327,8 +327,11 @@ by editing this MSBuild file. In order to learn more about this please visit htt
     <File Include="Css/StyleSheet1.css">
       <publishTime>11/07/2019 12:05:40</publishTime>
     </File>
+    <File Include="Default.aspx">
+      <publishTime>11/22/2019 20:43:31</publishTime>
+    </File>
     <File Include="Disk.aspx">
-      <publishTime>11/07/2019 12:11:18</publishTime>
+      <publishTime>11/16/2019 17:55:17</publishTime>
     </File>
     <File Include="favicon.ico">
       <publishTime>11/07/2019 11:38:43</publishTime>
@@ -352,7 +355,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>11/07/2019 11:38:43</publishTime>
     </File>
     <File Include="Home.aspx">
-      <publishTime>11/07/2019 12:17:01</publishTime>
+      <publishTime>11/22/2019 19:54:58</publishTime>
     </File>
     <File Include="Scripts/bootstrap.js">
       <publishTime>11/07/2019 11:38:48</publishTime>
@@ -445,7 +448,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>11/07/2019 11:38:50</publishTime>
     </File>
     <File Include="Site.Master">
-      <publishTime>11/07/2019 12:08:22</publishTime>
+      <publishTime>11/22/2019 19:53:21</publishTime>
     </File>
     <File Include="Site.Mobile.Master">
       <publishTime>11/07/2019 11:38:51</publishTime>
@@ -454,7 +457,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>11/07/2019 11:38:51</publishTime>
     </File>
     <File Include="Web.config">
-      <publishTime>11/07/2019 12:16:10</publishTime>
+      <publishTime>11/16/2019 18:16:48</publishTime>
     </File>
   </ItemGroup>
 </Project>

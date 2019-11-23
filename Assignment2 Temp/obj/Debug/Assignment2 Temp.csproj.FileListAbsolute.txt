@@ -95,8 +95,8 @@ C:\Users\dverbeck\Desktop\Assignment Files\Assignment2 Temp\Assignment2 Temp\bin
 C:\Users\dverbeck\Desktop\Assignment Files\Assignment2 Temp\Assignment2 Temp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
 C:\Users\dverbeck\Desktop\Assignment Files\Assignment2 Temp\Assignment2 Temp\bin\Microsoft.Owin.Security.OAuth.xml
 C:\Users\dverbeck\Desktop\Assignment Files\Assignment2 Temp\Assignment2 Temp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\dverbeck\Desktop\Assignment Files\Assignment2 Temp\Assignment2 Temp\obj\Debug\Assignment2 Temp.csprojAssemblyReference.cache
 C:\Users\dverbeck\Desktop\Assignment Files\Assignment2 Temp\Assignment2 Temp\obj\Debug\Assignment2 Temp.csproj.CoreCompileInputs.cache
 C:\Users\dverbeck\Desktop\Assignment Files\Assignment2 Temp\Assignment2 Temp\obj\Debug\Assignment2 Temp.csproj.CopyComplete
 C:\Users\dverbeck\Desktop\Assignment Files\Assignment2 Temp\Assignment2 Temp\obj\Debug\Assignment2 Temp.dll
 C:\Users\dverbeck\Desktop\Assignment Files\Assignment2 Temp\Assignment2 Temp\obj\Debug\Assignment2 Temp.pdb
+C:\Users\dverbeck\Desktop\Assignment Files\Assignment2 Temp\Assignment2 Temp\obj\Debug\Assignment2 Temp.csprojAssemblyReference.cache

@@ -26,6 +26,7 @@ namespace Assignment2_Temp.Account
 
                 signInManager.SignIn( user, isPersistent: false, rememberBrowser: false);
                 IdentityHelper.RedirectToReturnUrl(Request.QueryString["ReturnUrl"], Response);
+
             }
             else 
             {
