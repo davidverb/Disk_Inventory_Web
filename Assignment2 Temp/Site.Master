@@ -48,7 +48,7 @@
         <div class="navbar navbar-inverse navbar-fixed-top">
             <div class="container">
                 <div class="navbar-header">
-                    <a class="navbar-brand" runat="server" href="~/Home.aspx">Disk Inventory</a>
+                    <a class="navbar-brand" runat="server" href="~/Default.aspx">Disk Inventory</a>
                 </div>
                 <% if (HttpContext.Current.User.Identity.IsAuthenticated ) { %>
                 <div class="navbar-collapse collapse">
@@ -56,6 +56,7 @@
                         <li><a runat="server" href="~/Borrower.aspx">Borrower</a></li>
                         <li><a runat="server" href="~/Artist">Artists</a></li>
                         <li><a runat="server" href="~/Disk">Disks</a></li>
+                        <li><a runat="server" href="~/CheckOut">Check out</a></li>
                     </ul>
                     <% } else { %>
                     <div class="navbar-collapse collapse">
@@ -83,6 +84,7 @@
                         
             </div>
         </div>
+            </div>
         <div class="container body-content">
             <asp:ContentPlaceHolder ID="MainContent" runat="server">
             </asp:ContentPlaceHolder>

@@ -1288,6 +1288,8 @@ h6,
 }
 p {
   margin: 0 0 10px;
+    height: 20px;
+    width: 767px;
 }
 .lead {
   margin-bottom: 20px;

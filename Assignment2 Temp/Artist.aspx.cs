@@ -27,39 +27,49 @@ namespace Assignment2_Temp
             }
         }
 
-        //protected void GridView1_RowDeleted(object sender, GridViewDeletedEventArgs e)
-        //{
-        //    if (e.Exception != null)
-        //    {
-        //        lblError.Text = DatabaseErrorMessage(e.Exception.Message);
-        //        e.ExceptionHandled = true;
-        //    }
-        //    else if (e.AffectedRows == 0)
-        //    {
-        //        lblError.Text = ConcurrencyErrorMessage();
-        //    }
-        //}
+        protected void GridView1_RowDeleted(object sender, GridViewDeletedEventArgs e)
+        {
+            if (e.Exception != null)
+            {
+                lblError.Text = DatabaseErrorMessage(e.Exception.Message);
+                e.ExceptionHandled = true;
+            }
+            else if (e.AffectedRows == 0)
+            {
+                lblError.Text = ConcurrencyErrorMessage();
+            }
+        }
 
         protected void Button1_Click(object sender, EventArgs e)
         {
             if (IsValid)
             {
-                //    var parameters = SqlDataSource1.InsertParameters;
-                //    parameters["artistName"].DefaultValue = TextBox1.Text;
+                try
+                {
+                    var parameters = SqlDataSource1.InsertParameters;
+                    parameters["ID"].DefaultValue = TextBox2.Text;
+                    parameters["ArtistName"].DefaultValue = TextBox1.Text;
+                    try
+                    {
 
-                //    try
-                //    {
-                //        SqlDataSource1.Insert();
-                //        TextBox1.Text = "";
+                        SqlDataSource1.Insert();
+                        TextBox1.Text = "";
 
-                //    }
-                //    catch (Exception ex)
-                //    {
-                //        lblError.Text = DatabaseErrorMessage(ex.Message);
-                //    }
-                lblError.Text = "Sorry there was an error. Please try again at a later time";
+                    }
+                    catch (Exception ex)
+                    {
+                        lblError.Text = DatabaseErrorMessage(ex.Message);
+                    }
+                } catch
+                {
+                    lblError.Text = "Sorry there was an error. Please try again at a later time";
+                }
+
+                
+                //lblError.Text = "Sorry there was an error. Please try again at a later time";
             }
         }
+
 
         private string DatabaseErrorMessage(string errorMsg)
         {
